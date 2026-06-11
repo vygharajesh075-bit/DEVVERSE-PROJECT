@@ -1,132 +1,175 @@
+<h1 align="center">Hi 👋, I'm Vygha Rajesh</h1>
 
-<!-- ================= HERO ================= -->
-
-<p align="center">
-
-</p>
+<h3 align="center">💻 DSA Explorer | 🌐 Full Stack Developer | ⚡ Future ECE Engineer</h3>
 
 <p align="center">
-  <b>🌌 A living AI-powered digital ecosystem where apps become experiences.</b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Coder;Problem+Solver;Frontend+Builder;Always+Learning" />
 </p>
 
 ---
 
-<!-- ================= GLITCH HEADER ================= -->
+## 🚀 About Me
+- 🎯 Focused on **DSA + Web Development**
+- 📚 Solved **100+ LeetCode problems**
+- ⚡ Exploring **Math in Data Science**
+- 🎓 Future **Electronics & Communication Engineer**
+- 💡 Building clean & responsive frontend projects
 
 ---
 
-<!-- ================= NAVIGATION ================= -->
-
+## 🛠️ Tech Stack
 <p align="center">
-  <a href="#overview">OVERVIEW</a> •
-  <a href="#modules">MODULES</a> •
-  <a href="#system">SYSTEM</a> •
-  <a href="#architecture">ARCHITECTURE</a> •
-  <a href="#future">FUTURE</a>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js" />
 </p>
 
 ---
 
-## 🌠 OVERVIEW <a name="overview"></a>
-
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=DevVerse+is+not+a+project;It+is+a+digital+universe;Where+apps+become+experiences" />
-</p>
-
-> DevVerse merges entertainment, intelligence, and productivity into a single unified ecosystem.
-
-It removes fragmentation between apps and replaces it with a **continuous experience flow**.
-
----
-
-<!-- ================= SCROLL STATUS ================= -->
-
-<p align="center">
-  <marquee behavior="scroll" direction="left">
-  🎬 Movies Engine Active • 🌦️ Weather Sync Running • 🎵 Music Layer Online • 📊 Dashboard Connected • 🤖 AI Brain Initialized • DevVerse Stable ⚡
-  </marquee>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## ⚡ MODULES <a name="modules"></a>
-
----
-
-### 🎬 MOVIES ENGINE
-
+## 🌌 Contribution Snake
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Search+Movies;Discover+Trends;Cinematic+Data+Flow+Active" />
+  <img src="https://raw.githubusercontent.com/vygharajesh075-bit/vygharajesh075-bit/output/github-contribution-grid-snake.svg" />
 </p>
 
-- Trending movies feed  
-- Search functionality  
-- Clean cinematic UI  
-- Real-time API integration  
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/">
+   
+  </a>
+  <a href="https://github.com//vygharajesh075-bit">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+# 🚀 DevVerse PRO
+
+### Interactive Developer Dashboard (Vanilla JS)
+
+DevVerse PRO is a sleek, customizable dashboard that turns your browser into a mini workspace. Built with pure JavaScript, it features draggable widgets, persistent layouts, and real-time UI updates—no frameworks, just solid frontend engineering.
 
 ---
 
-### 🌦️ WEATHER SYSTEM
+## 🌐 Live Demo
+
+https://vygharajesh075-bit.github.io/devverse-pro/
+---
+
+## 🖼️ Preview
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Live+Weather+Engine;Forecast+Processing;Location+Sync+Active" />
+  <img src="assets/demo.gif" alt="DevVerse Demo" width="800"/>
 </p>
-
-- Real-time weather updates  
-- Location-based forecasting  
-- Smooth UI transitions  
+<!-- Tip: Add a GIF (screen recording) here for max impact -->
 
 ---
 
-### 🎵 MUSIC ENGINE
+## ✨ Features
 
+* ⏰ **Live Clock** — Updates every second using native Date APIs
+* 🧭 **Section Navigation** — Clean UI state switching via class toggling
+* 🎨 **Dark / Light Mode** — Theme toggle with persistence (localStorage)
+* 🧲 **Draggable Widgets**
+
+  * Smooth drag & drop
+  * Mouse + Touch support 📱
+  * Boundary constraints (no overflow)
+* 💾 **Persistent Layout** — Widget positions saved & restored automatically
+* 🔄 **Reset Layout** — One-click restore to defaults
+
+---
+
+## 🛠️ Tech Stack
+
+* **HTML5**
+* **CSS3**
+* **JavaScript (Vanilla JS)**
+
+> No frameworks. Everything implemented from scratch to demonstrate core fundamentals.
+
+---
+
+## 🧠 Engineering Highlights
+
+* DOM manipulation & event delegation
+* Mouse + touch event handling
+* Custom drag-and-drop system (with offset calculation)
+* Viewport boundary constraints
+* State persistence via `localStorage`
+* Modular UI logic (sections, widgets, theme)
+
+---
+
+## 📂 Project Structure
+
+```bash
+DevVerse-PRO/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│    └── demo.gif
+```
+
+---
+
+## ⚙️ Getting Started
+
+```bash
+git clone https://github.com/your-username/devverse-pro.git
+cd devverse-pro
+open index.html
+```
+
+Or simply open `index.html` in your browser.
+
+---
+
+## 🚀 Roadmap
+
+* 🌦️ Weather API integration
+* 🔐 Authentication (Firebase / Node.js)
+* 📊 GitHub activity widget
+* 🤖 AI assistant panel
+* ☁️ Cloud sync for layouts
+
+---
+
+## 💡 Why This Project?
+
+While many beginner projects focus on static UI, DevVerse PRO explores **interactive systems**:
+
+* Persistent UI state
+* Complex user interactions
+* Real-world dashboard behavior
+
+Perfect for showcasing **frontend problem-solving and UX thinking**.
+
+---
+
+## 👨‍💻 Author
+
+**Vygha Rajesh**
+Aspiring Software Engineer (ECE) | Frontend Enthusiast
+
+---
+
+## ⭐ Show Some Love
+
+If you like this project, drop a ⭐ on GitHub.
+It helps more than you think.
+
+
+---
+
+## ✨ Quote
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=B700FF&center=true&vCenter=true&width=600&lines=Audio+Discovery+Layer;Minimal+UI+System;Flow+Based+Experience" />
+  <i>"Code. Debug. Learn. Repeat."</i>
 </p>
-
-- Music browsing system  
-- Clean interface  
-- Lightweight interaction flow  
-
----
-
-### 📊 DASHBOARD CORE
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF85&center=true&vCenter=true&width=600&lines=Control+Center+Online;Unified+Navigation+System;Data+Hub+Active" />
-</p>
-
-- Central navigation system  
-- Module orchestration  
-- Unified control panel  
-
----
-
-### 🤖 AI CORE
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=AI+Assistant+Online;Context+Processing;Smart+Response+Engine" />
-</p>
-
-- Conversational assistant  
-- Context-aware responses  
-- Productivity support layer  
-
----
-
-## 🧠 SYSTEM FLOW <a name="system"></a>
-
-```txt
-USER INPUT
-   ↓
-DASHBOARD ROUTER
-   ↓
-MODULE SELECTION
-   ↓
-API PROCESSING LAYER
-   ↓
-UI RENDER ENGINE
-   ↓
-INTERACTION LOOP
-   ↓
-DEVVERSE EXPERIENCE
