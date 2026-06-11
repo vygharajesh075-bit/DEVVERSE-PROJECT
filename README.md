@@ -2,7 +2,7 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=DEVVERSE+INITIALIZING...;A+Unified+Digital+Universe;Movies+%7C+Weather+%7C+Music+%7C+Dashboard+%7C+AI;SYSTEM+ONLINE+⚡" />
+
 </p>
 
 <p align="center">
